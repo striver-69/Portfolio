@@ -42,9 +42,15 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey' },
-  { year: 2018, text: 'Worked as a freelance developer' },
-  { year: 2019, text: 'Founded JavaScript Mastery' },
-  { year: 2020, text: 'Shared my projects with the world' },
-  { year: 2021, text: 'Started my own platform' },
+  { year: 2018, text: 'Started my journey as a student at IIT Kharagpur' },
+  { year: 2020, text: 'Started Exploring in the field of Web Development' },
+  { year: 2021, text: 'Interned at Ficting as a Backend Developer' },
+  {
+    year: 2021,
+    text: 'Interned at Accolite Digital India as a Software Developer',
+  },
+  {
+    year: 2021,
+    text: 'B-Tech Major project in adding Smart Browsing in AIShiksha Portal',
+  },
 ];
