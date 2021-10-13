@@ -11,23 +11,17 @@ import {
   NavLink,
   SocialIcons,
   Span,
+  Anchor,
 } from './HeaderStyles';
 
 const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a
-          style={{
-            display: 'flex',
-            alignItems: 'center',
-            color: 'white',
-            marginBottom: '20px',
-          }}
-        >
+        <Anchor>
           <DiCssdeck size="3rem" />
           <Span>Portfolio</Span>
-        </a>
+        </Anchor>
       </Link>
     </Div1>
     <Div2>
