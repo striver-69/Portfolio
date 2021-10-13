@@ -66,7 +66,13 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>Fill Later about this</SectionText>
+      <SectionText>
+        I am Chiranjivee Saksham a 4th Year Undergraduate from the department of
+        Electrical Engineering at IIT Kharagpur. My interest lies in exploring
+        in the field of Backend and Frontend Web Development. I have interned at
+        Accolite Digital Private Limited and Ficting to gain experince of
+        working in large scale projects
+      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (

@@ -4,10 +4,10 @@ import { Section, SectionTitle } from '../../styles/GlobalComponents';
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 20, text: 'Open Source Projects' },
-  { number: 1000, text: 'Students' },
-  { number: 1900, text: 'Github Followers' },
-  { number: 5000, text: 'Github Stars' },
+  { number: 979, text: 'JEE Mains 2018' },
+  { number: 1884, text: 'JEE Advanced 2018' },
+  { number: 6, text: 'Open Source Projects' },
+  { number: 1441, text: 'Codeforces Rating' },
 ];
 
 const Acomplishments = () => (

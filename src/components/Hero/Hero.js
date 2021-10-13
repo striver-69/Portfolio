@@ -16,9 +16,15 @@ const Hero = (props) => (
         My personal Portfolio
       </SectionTitle>
       <SectionText>
-        My main goal is to be a creative full stack engineer
+        Aspiring Full Stack Developer looking forward to explore in the field of
+        Software Development.
       </SectionText>
-      <Button onClick={() => (window.location = 'https://google.com')}>
+      <Button
+        onClick={() =>
+          (window.location =
+            'https://www.linkedin.com/in/chiranjivee-saksham-3441371ba/')
+        }
+      >
         Learn More
       </Button>
     </LeftSection>
