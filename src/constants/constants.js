@@ -13,7 +13,7 @@ export const projects = [
     title: 'Netflix Clone',
     description:
       'Used the knowledge of ReactJS to make a streaming platform similar to Netflix by making use of Reusable card Components in React. The website also helps to view the trailer of different web-series using movie-trailer npm library ',
-    image: '/images/Netflix.png',
+    image: '/images/Netflix.PNG',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/striver-69/Netflix-Clone',
     visit: 'https://netflix-clone-7a394.web.app/',
@@ -23,7 +23,7 @@ export const projects = [
     title: 'GraphSaga',
     description:
       'Made an application using ReactJS to visualize various path finding algorithms like BFS, DFS, A*, Greedy Best First Search and simulating random blockage in the grid using maze algorithms like random maze and recursive maze division.',
-    image: '/images/graph.png',
+    image: '/images/graph.PNG',
     tags: ['ReactJS', 'JavaScript', 'CSS'],
     source: 'https://github.com/striver-69/GraphAlgorithms-Visualizer',
     visit: 'https://graph-algorithms-visualizer.vercel.app/',
@@ -33,7 +33,7 @@ export const projects = [
     title: 'NAIRP',
     description:
       'Working on my B-TECH project to improve UI/UX of AIShiksha portal and make use of various design patterns to cater better results to the user. Added AND logic across fields and OR logic across filters to allow user to find relevant results based on his/her needs',
-    image: '/images/Aishiksha.png',
+    image: '/images/Aishiksha.PNG',
     tags: ['React', 'MongoDB', 'NodeJS', 'JavaScript'],
     source: '#',
     visit: 'https://www.aishiksha.com/',
